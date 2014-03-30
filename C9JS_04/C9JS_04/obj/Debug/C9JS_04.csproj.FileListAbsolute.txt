@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2012\Projects\C9JS_04\C9JS_04\bin\C9JS_04.dll
+c:\users\admin\documents\visual studio 2012\Projects\C9JS_04\C9JS_04\bin\C9JS_04.pdb
+c:\users\admin\documents\visual studio 2012\Projects\C9JS_04\C9JS_04\obj\Debug\C9JS_04.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\C9JS_04\C9JS_04\obj\Debug\C9JS_04.dll
+c:\users\admin\documents\visual studio 2012\Projects\C9JS_04\C9JS_04\obj\Debug\C9JS_04.pdb
+D:\GitHub\TrainingProjectJS\C9JS_04\C9JS_04\bin\C9JS_04.dll
+D:\GitHub\TrainingProjectJS\C9JS_04\C9JS_04\bin\C9JS_04.pdb
+D:\GitHub\TrainingProjectJS\C9JS_04\C9JS_04\obj\Debug\C9JS_04.csprojResolveAssemblyReference.cache
+D:\GitHub\TrainingProjectJS\C9JS_04\C9JS_04\obj\Debug\C9JS_04.dll
+D:\GitHub\TrainingProjectJS\C9JS_04\C9JS_04\obj\Debug\C9JS_04.pdb
